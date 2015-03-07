@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  deposit_withdrawl: false
+  amount: 1
+  date: 2015-03-06 23:17:38
+
+two:
+  deposit_withdrawl: false
+  amount: 1
+  date: 2015-03-06 23:17:38

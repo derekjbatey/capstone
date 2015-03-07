@@ -44,5 +44,6 @@ group :development, :test do
   
   # Bootstrapp gem for CSS
  gem 'bootstrap-sass'
+ gem 'tzinfo-data'
 end
 
